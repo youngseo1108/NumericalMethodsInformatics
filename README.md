@@ -1,1 +1,1 @@
-# NumericalMethodsInformatics
+# HS21 Numerical Methods in Informatics
